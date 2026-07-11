@@ -137,9 +137,3 @@ It combines the body, wing, and wheel R&D phases into a single process that is e
 6. Test wheel structure with FEA and optimize spoke/cover design
 7. Select the best combination for regional and nationals rules
 8. Document final choices and explain the reasoning for each subsystem
-
-## Suggested Repo Improvements
-- Add folders for `models/`, `simulations/`, `reports/`, and `references/`
-- Store CAD exports, mesh setup files, and CFD results with clear naming
-- Keep a `timeline/` or `change-log/` of design iterations for traceability
-- Use this workflow as the base for a project report or presentation
